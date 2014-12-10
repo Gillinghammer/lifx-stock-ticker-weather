@@ -11,4 +11,6 @@ Anyone with a LIFX smartbulb can run this script to turn their LIFX into a stock
 
 Take a look at the very simple main.rb file to update with your location and list of stocks to follow.
 
-enjoy!
+I automated this script to run on my machine hourly while the market was open.
+
+Enjoy!
