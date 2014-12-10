@@ -13,4 +13,6 @@ Take a look at the very simple main.rb file to update with your location and lis
 
 I automated this script to run on my machine hourly while the market was open.
 
+Here is a video of it working: https://www.youtube.com/watch?v=SSQwXWv1oR0
+
 Enjoy!
